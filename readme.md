@@ -26,7 +26,7 @@ http://scripts.sil.org/OFL
 - adjustment of x-height and vertical metrics and the make
 - export in two different font packages (Design and Office)
 
-# Based on inter
+# Based on Inter
 https://github.com/rsms/inter
 
 ## Creating derivative fonts
