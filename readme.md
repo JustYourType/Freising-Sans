@@ -1,6 +1,5 @@
 # Freising Sans
-Freising Sans by Just Your Type, Berbig & Franz GbR ([Font Vendor Code JYT](https://learn.microsoft.com/en-us/typography/vendors/#j)) is an open source font licensed under the Open Font License (OFL 1.1) for the city of Freising. 
-
+Freising Sans by Just Your Type, Berbig & Franz GbR ([Font Vendor Code JYT](https://learn.microsoft.com/en-us/typography/vendors/#j)) is a font licensed under the Open Font License for the city of Freising. 
 
 The Freising Sans is a modification of Inter, a trademark of Rasmus Andersson.
 "Inter" is a Reserved Font Name by Rasmus Andersson ([Font Vendor Code RSMS](https://learn.microsoft.com/en-us/typography/vendors/#r)).
