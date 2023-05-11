@@ -3,7 +3,7 @@ Freising Sans by Just Your Type, Berbig & Franz GbR is an open source font licen
 ([font vendor code JYT](https://learn.microsoft.com/en-us/typography/vendors/#j))
 
 The Freising Sans is a modification of Inter, a trademark of Rasmus Andersson.
-([font vendor code RSMS.](https://learn.microsoft.com/en-us/typography/vendors/#r))
+([font vendor code RSMS](https://learn.microsoft.com/en-us/typography/vendors/#r))
 "Inter" is a Reserved Font Name by Rasmus Andersson
 
 # License
