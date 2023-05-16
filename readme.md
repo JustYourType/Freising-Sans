@@ -8,21 +8,25 @@ The Freising Sans is a modification of Inter, a trademark of Rasmus Andersson.
 The font is licensed under the Open Font License (version 1.1 or later).
 http://scripts.sil.org/OFL
 
-# Special features of the font:
-- Logo-e is on de, characters: ‡ (UNI 2021)
-- se: combinations and the name sedus/Sedus are displayed with the logo-e.
-- with the input: #seduslogo the logo appears
-- the logo can also be called up using the character  (UNI F8FF).
-
 # Summary of the modifications from Inter to Freising Sans:
-- the logo-e was added
-- the logo-e is on an accessible key (‡)
-- a ligature makes the Sedus logo appear, it is on the logo character 
-- the g was closed at the bottom
-- renaming from Fira to Sedus text
-- Adjustment of weight naming and staggering to the make (Sedus Head)
-- adjustment of x-height and vertical metrics and the make
-- export in two different font packages (Design and Office)
+The Idea was to give a similar look to all styles, that should appear more friendly with bigger dots and open appertures
+- spacing & kerning latin optimized & restructured 
+- redesign and resize all dots and similar, especially in the Black Master
+- redesign all commas and comma accents
+- redesign all appertures to open opertures in latin-glyph-set, as C, S, G, e, g, 3 or similar shapes
+- redesign Numbers for more open and friendly appearance
+- redesign german ß + Capital
+- more expressive tail for l and t 
+– switch l & l.ss02
+- reworked some alignment issues
+- reduction of salt feature
+- export with more spacing
+- Renaming: SemiBold wird Bold, Bold wird ExtraBold
+— Style linking: Regular + SemiBold
+- Italic optimized, needs even more time (before it was only slanted)
+
+# For greek, cyrillic
+Redesign idea, Spacing & Kerning is not done yet.
 
 # Based on Inter
 https://github.com/rsms/inter
